@@ -51,6 +51,10 @@ At 10.000 random points <br>
 * [Video Chaos Game - Numberphile](https://www.youtube.com/watch?v=kbKtFN71Lfs)
 * [Sierpiński triangle - Wikipedia](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle)
 
+
+## Note
+This classes are part my implementation of The Ray Tracer Challenger of the book with the same name and I added the Chaos class for this small project.   
+
 ## License
 MIT Open Source License
 
